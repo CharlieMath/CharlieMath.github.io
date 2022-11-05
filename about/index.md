@@ -1,14 +1,6 @@
 # 关于 Charles Math
 
 
-<<<<<<< HEAD
-=======
-{{< style "img { height: 1.25rem; }" >}}
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square)]()
-[![Hugo](https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&logo=hugo)](https://gohugo.io/)
-{{< /style >}}
-
->>>>>>> 091f08b7beebff6cd35c7ad5fd1ba1384ddeeac7
 > :(fas fa-graduation-cap fa-fw): **Charlie Math** 是一个百科全书式的数学知识网站。
 >
 > 网站原型基于  [:(far fa-kiss-wink-heart fa-fw): LoveIt 主题](https://github.com/dillonzq/LoveIt) 设计。
